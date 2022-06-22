@@ -1,0 +1,37 @@
+/*===================================================
+	XmlDomTest01.java
+	- 콘솔 기반 자바 프로그램
+	- XML DOM 활용 → 로컬 (local) XML 읽어내기
+	  (memberList.xml)
+===================================================*/
+
+package com.test;
+
+public class XmlDomTest04
+{
+	public static void main(String[] args)
+	{
+		/*
+		----------------------------------------------------------------
+		No		MAKE		MODEL		YEAR		STYLE		PRICE
+		----------------------------------------------------------------
+		1		Dodge		Durango		1998		Sport Utility	18000
+		Options ----------------------------------------------------------------
+		
+			Power_Lock : 
+			Power_Windoe : 
+			Stereo : 
+			Airr_Conditioning : 
+			Automatic : 
+			Four_Wheel_Drive : 
+			Note : 
+			Very clean
+		
+		
+		*/
+		
+	}
+	
+	
+	
+}

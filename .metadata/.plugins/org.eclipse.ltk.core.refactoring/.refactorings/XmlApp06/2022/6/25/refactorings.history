@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;XMLDOM.java&apos; to &apos;XmlApp07/src/com.test&apos;&#x0D;&#x0A;- Original project: &apos;XmlApp06&apos;&#x0D;&#x0A;- Destination element: &apos;XmlApp07/src/com.test&apos;&#x0D;&#x0A;- Original element: &apos;com.test.XMLDOM.java&apos;" description="Copy compilation unit" destination="=XmlApp07/src&lt;com.test" element1="/src&lt;com.test{XMLDOM.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1655346197655" units="1" version="1.0"/>
+</session>
